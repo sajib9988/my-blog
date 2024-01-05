@@ -1,0 +1,15 @@
+nav >ul> li {
+           display: inline;
+           margin-right: 20px;
+          
+}
+        nav li > a{
+               text-decoration: none;
+        }
+        .me{
+              margin-top: 30px;
+              text-align: center;
+        }
+        .sec1{
+            text-align: justify;
+        }
